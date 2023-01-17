@@ -6,19 +6,11 @@
 
 <div align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yoshikazuuu&show_icons=true&theme=omni"
-      media="(prefers-color-scheme: dark)"
-    />
     <img height="140px" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoshikazuuu&show_icons=true" />
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoshikazuuu&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
   </picture>
   <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.app/api/top-langs/?username=yoshikazuuu&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
     <img height="140px" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yoshikazuuu&show_icons=true" />
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoshikazuuu&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </picture>
 </div>
