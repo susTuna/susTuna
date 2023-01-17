@@ -15,7 +15,7 @@
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshikazuuu&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      srcset="https://github-readme-stats-sigma-five.app/api/top-langs/?username=yoshikazuuu&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <img height="140px" 
