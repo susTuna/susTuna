@@ -3,7 +3,7 @@
     src="https://media.discordapp.net/attachments/714847546903625790/1089987117498773534/mijuki1.png?width=2249&height=750" />
   <p align="center" style="font-family: 'Product Sans', sans-serif; font-size: large;"><b>Hello! I'm just your average
       weeb who likes to code!</b></p>
-  <img
+  <img height="140px" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=and+I+love+cute+things!+🎀"
     alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #7b1a58);" />
   <br>
@@ -15,6 +15,7 @@
 <br>
 
 <details>
+  <br>
   <summary style="font-family: 'Product Sans', sans-serif; font-size: small;"><b>More Info</b></summary>
   <div align="center">
     <table>
