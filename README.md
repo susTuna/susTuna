@@ -22,6 +22,6 @@
           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoshikazuuu&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
       </div>
     </table>
-    <img height="140px" style="padding: 5px;"
+    <img height="250px" style="padding: 5px;"
           src="https://github-readme-stats.vercel.app/api/wakatime?username=yoshikazuuu&theme=omni&layout=compact" />
   </div>
