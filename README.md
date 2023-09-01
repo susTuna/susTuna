@@ -10,10 +10,11 @@
         I am, after all, and I wish people could just understand me better."</sup></i></a>
   <br>
   <br>
-  <h2>More info</h2>
-  <br>
 </div>
 
+<details>
+  <br>
+  <summary style="font-family: 'Product Sans', sans-serif; font-size: small;"><b>More Info</b></summary>
   <div align="center" style="display: flex; flex-direction: column; gap: 1rem;">
     <div style="display: flex; flex-direction: row;">
         <img height="140px" style="padding: 5px;"
@@ -25,3 +26,4 @@
     <img height="250px" style="padding: 5px;"
           src="https://github-readme-stats.vercel.app/api/wakatime?username=yoshikazuuu&theme=omni&layout=compact" />
   </div>
+</details>
