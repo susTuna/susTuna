@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/yoshikazuuu/yoshikazuuu/main/bg.png" />
+    src="https://raw.githubusercontent.com/yoshikazuuu/yoshikazuuu/main/bg3.png" />
   <p align="center" style="font-family: 'Product Sans', sans-serif; font-size: large;"><b>Hello! I'm just your average
       weeb who likes to code!</b></p>
   <img
