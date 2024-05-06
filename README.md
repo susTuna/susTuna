@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://i.pximg.net/img-master/img/2023/05/14/05/30/44/108105991_p0_master1200.jpg)
 
 <!--
 **susTuna/susTuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
