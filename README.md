@@ -21,7 +21,7 @@
         <img height="140px" style="padding: 5px;"
           src="https://github-readme-stats-sigma-five.vercel.app/api?username=susTuna&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
         <img height="140px" style="padding: 5px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=susTuna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true?exclude_repo=Analisis-dan-Visualisasi-Data-Lagu-Spotify" />
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=susTuna&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=8" />
       </div>
     </table>
     <!-- <img height="250px" style="padding: 5px;"
