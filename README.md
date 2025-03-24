@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/susTuna/susTuna/main/bg.gif" />
   <p align="center" style="font-family: 'Product Sans', sans-serif; font-size: large;"><b>Hello! I'm just your average
-      nextdoor Undergraduate Informatics Student!</b></p>
+      nextdoor Undergraduate Informatics Student :></b></p>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F1A7B&center=true&vCenter=true&width=435&lines=I+love+to+explore+new+things!"
     alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #3f1a7b);" />
