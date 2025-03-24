@@ -4,8 +4,8 @@
   <p align="center" style="font-family: 'Product Sans', sans-serif; font-size: large;"><b>Hello! I'm just your average
       nextdoor Undergraduate Informatics Student!</b></p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=and+I+love+to+f-around+and+find+out!+🎀"
-    alt="Typing SVG" style="filter: drop-shadow(2px 2px 1pxrgb(80, 13, 76));" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=I+love+to+explore+new+things!+🎀"
+    alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #3f1a7b);" />
   <br>
   <!-- <a href="https://yoshi.moe" style="font-family: 'Product Sans', sans-serif; font-size: medium;"><i><sup>"Hmm. I am who
         I am, after all, and I wish people could just understand me better."</sup></i></a>
