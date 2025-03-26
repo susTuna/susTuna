@@ -21,7 +21,7 @@
         <img height="140px" style="padding: 5px;"
           src="https://github-readme-stats-sigma-five.vercel.app/api?username=susTuna&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
         <img height="140px" style="padding: 5px;"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=susTuna&layout=donut&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=susTuna&layout=compact&theme=nightowl&hide_border=false&hide=jupyter%20notebook&include_all_commits=true&count_private=true" />
       </div>
     </table>
     <!-- <img height="250px" style="padding: 5px;"
